@@ -1,7 +1,7 @@
 package edu.cscc;
 import java.util.Scanner;
 
-// Megan Garcia-Basanez, 02/01/2023, Body Mass Index Calculator
+// Body Mass Index Calculator
 public class Main {
 
     private static Scanner input = new Scanner(System.in);
